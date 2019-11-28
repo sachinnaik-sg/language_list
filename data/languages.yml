@@ -14440,6 +14440,14 @@
   :common: true
   :type: :living
   :scope: :individual
+- :name: English UK
+  :iso_639_1: enuk
+  :iso_639_3: enguk
+  :iso_639_2b: enguk
+  :iso_639_2t: enguk
+  :common: true
+  :type: :living
+  :scope: :individual  
 - :name: Tundra Enets
   :iso_639_1: 
   :iso_639_3: enh
